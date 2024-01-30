@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Banco  {
     public static void main(String[] args) {
         Scanner leitura = new Scanner(System.in);
         String tipoDeconta1 = "Conta Corrente";
